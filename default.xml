@@ -5,6 +5,9 @@
            fetch="https://github.com"
            review=".." />
   
+  <remote  name="private"
+           fetch="ssh://git@github.com" />
+  
   <default revision="refs/heads/master"
            remote="github"
            sync-c="true"
