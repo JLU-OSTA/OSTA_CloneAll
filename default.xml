@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="JLU-OSTA"
+           fetch="https://github.com"
+           review=".." />
+
+  <project path="OSTA/ChangeNumToAnySystem" name="OSTA/ChangeNumToAnySystem" remote="JLU-OSTA" />
+
+</manifest>
