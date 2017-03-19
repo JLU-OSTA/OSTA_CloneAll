@@ -4,6 +4,11 @@
   <remote  name="JLU-OSTA"
            fetch="https://github.com"
            review=".." />
+  
+  <default revision="refs/heads/master"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
 
   <project path="OSTA/ChangeNumToAnySystem" name="OSTA/ChangeNumToAnySystem" remote="JLU-OSTA" />
 
