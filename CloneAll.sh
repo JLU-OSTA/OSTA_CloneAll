@@ -7,3 +7,4 @@ git clone https://github.com/JLU-OSTA/OSTA_LEDSegmentDisplays_HeaderFile.git
 git clone https://github.com/JLU-OSTA/OSTA_ASM.git
 git clone https://github.com/JLU-OSTA/OSTA_MCU_HeaderFile.git
 git clone https://github.com/JLU-OSTA/Arduino_Virtual_USB.git
+git clone https://github.com/JLU-OSTA/BasicCombinationalLogicCircuit.git
