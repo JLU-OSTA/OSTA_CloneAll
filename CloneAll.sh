@@ -9,3 +9,5 @@ git clone https://github.com/JLU-OSTA/OSTA_MCU_HeaderFile.git
 git clone https://github.com/JLU-OSTA/Arduino_Virtual_USB.git
 git clone https://github.com/JLU-OSTA/BasicCombinationalLogicCircuit.git
 git clone https://github.com/JLU-OSTA/CaoMengxi-useless-works.git
+git clone https://github.com/JLU-OSTA/PowerStringClass.git
+git clone https://github.com/JLU-OSTA/Successful_Modeling_for_2017_MCM_Question_A.git
